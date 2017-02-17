@@ -1,0 +1,17 @@
+{
+	"persons":[
+		{	
+			"name": "liuqi",
+		 	"age": "20", 
+		 	"hobby": "reading"
+		 },{
+		 	"name": "sinain", 
+		 	"age": "10", 
+		 	"hobby": "running"
+		 },{
+		 	"name": "happy", 
+		 	"age": "5", 
+		 	"hobby": "singing"
+		 }
+	]
+}
